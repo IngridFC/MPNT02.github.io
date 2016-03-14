@@ -33,9 +33,11 @@ ENTREGAS:
           
 
 REFERÊNCIAS:
-  Fase1: Aula 05(Identificação de Processos) e Capítulo 2 do livro texto.
-  Fase2: Aula 06(Descoberta de Processos) e Capítulo 5 do livro texto. 
-         Material adicional para os modelos: aulas 07, 08 e 09 (Capítulo 4 do livro texto).
-  Fase3: Aula 10(Análise Qualitativa de Processos)
-  Fase4: -
+
+	Fase1: Aula 05(Identificação de Processos) e Capítulo 2 do livro texto. 
+	Fase2: Aula 06(Descoberta de Processos) e Capítulo 5 do livro texto. 
+	       Material adicional para os modelos: aulas 07, 08 e 09 (Capítulo 4 do livro texto). 
+	Fase3: Aula 10(Análise Qualitativa de Processos) 
+	Fase4: -
+
  
